@@ -5,6 +5,5 @@
 Using this cron job server sends to bot updated death and infected Coronavirus cases.
 Also this file saves all the daily statistics in DB.
 
-S.S: 
 ![S.S](https://raw.githubusercontent.com/ogtayhuseynov0/coronovirus-telegram-bot-update/master/ss.PNG "Bot S.S")
 
