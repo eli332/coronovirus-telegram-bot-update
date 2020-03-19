@@ -7,3 +7,4 @@ Also this file saves all the daily statistics in DB.
 
 ![S.S](https://raw.githubusercontent.com/ogtayhuseynov0/coronovirus-telegram-bot-update/master/ss.PNG "Bot S.S")
 
+This job is crawling https://www.worldometers.info/coronavirus/ website and gets 2 value, Infected and Death values, every hour.
